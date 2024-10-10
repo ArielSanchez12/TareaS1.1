@@ -1,0 +1,3 @@
+Este repositorio tiene una practica base para comprender los conceptos de clase, atributos, objetos y métodos.
+Para ejecutar este programa se debe proporcionar la información que requieren los parámetros, por ejemplo en la practica 1 necesitas proporcionar un nombre, una edad y un genero para que el programa funcione correctamente, incluso cuando el genero no se imprime necesitas poner los 3 parametros.
+Se debe tener muy en cuenta los tipos de datos de los parámetros los cuales String, int, String correspondientemente, esto debido a que puede haber errores con el programa en caso de ingresar un tipo de dato incorrecto.
